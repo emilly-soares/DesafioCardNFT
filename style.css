@@ -11,3 +11,49 @@ body {
    background-color: hsl(217, 54%, 11%);
    display: flex;
 }
+
+.card-div {
+   max-width: 350px;
+   margin: 0 auto;
+}
+
+.top {
+   background-color: hsl(217, 54%, 11%);
+   box-shadow: 5px 5px 20px 10px black;
+   margin: 5px 2px;
+   padding: 15px;
+}
+
+.card-img {
+   border-radius: 15px;
+   position: relative;
+   overflow: hidden;
+}
+
+.card-img img {
+   width: 100%;
+   display: block;
+}
+
+.img-overlad {
+   position: absolute;
+   left: 0;
+   top: 0;
+   height: 100%;
+   widows: 100%;
+   background-color: hsl(178, 100%, 50%);
+   display: nome;
+}
+
+.img-overlad img {
+   position: absolute;
+   width: 50px;
+   left: 50%;
+   top: 50%;
+   transform: (translate -50%,
+         -50%);
+}
+
+.card-img:hover .img-overlad {
+   display: block;
+}
