@@ -36,3 +36,136 @@ body {
    -moz-box-shadow: 0px 0px 58px -6px rgba(4, 6, 10, 1);
    box-shadow: 0px 0px 58px -6px rgba(4, 6, 10, 1);
 }
+
+.custom-card {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   background-color: hsl(217, 54%, 11%);
+   padding: 15px;
+   border-radius: 15px;
+   transition: transform 0.5s;
+   gap: 10px;
+   max-width: 320px;
+   margin: 20px auto 0;
+   align-items: center;
+   text-align: center;
+   color: white;
+}
+
+.custom-img {
+   width: 100%;
+   align-self: center;
+   position: relative;
+}
+
+.custom-card-image {
+   width: 100%;
+   border-radius: 15px;
+}
+
+.custom-green-card {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background-color: hsl(178, 100%, 50%);
+   opacity: 0.7;
+   border-radius: 15px;
+   display: none;
+}
+
+.custom-eye {
+   left: 50%;
+   top: 50%;
+   position: absolute;
+   transform: translate(-50%, -50%);
+   display: none;
+   cursor: pointer;
+}
+
+.custom-img:hover .custom-eye {
+   display: block;
+}
+
+.custom-img:hover .custom-green-card {
+   display: block;
+}
+
+.custom-title {
+   font-weight: 600;
+   font-size: 1.5rem;
+   transition: color 0.5s;
+   margin-top: 10px;
+}
+
+.custom-title:hover {
+   color: hsl(178, 100%, 50%);
+   cursor: pointer;
+}
+
+.custom-description {
+   font-size: 1rem;
+   font-weight: 300;
+}
+
+.custom-items {
+   display: flex;
+   justify-content: space-between;
+   width: 100%;
+   margin-top: 10px;
+   font-size: 0.9rem;
+   color: hsl(215, 51%, 70%);
+}
+
+.custom-ethereum,
+.custom-time {
+   display: flex;
+   align-items: center;
+}
+
+.custom-ethereum img,
+.custom-time img {
+   margin-right: 5px;
+}
+
+.custom-hr {
+   width: 100%;
+   height: 1px;
+   background-color: hsl(215, 51%, 70%);
+   border: none;
+   margin-top: 10px;
+}
+
+.custom-author {
+   display: flex;
+   align-items: center;
+   margin-top: 10px;
+}
+
+.custom-avatar {
+   width: 30px;
+   height: 30px;
+   border-radius: 50%;
+   margin-right: 10px;
+   border: 1px solid hsl(0, 0%, 100%);
+}
+
+.custom-author-text {
+   color: hsl(215, 51%, 70%);
+   font-size: 0.9rem;
+}
+
+.custom-name {
+   color: white;
+   font-weight: 500;
+}
+
+.custom-attribution {
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+   color: hsl(215, 51%, 70%);
+   font-size: 0.8rem;
+}
