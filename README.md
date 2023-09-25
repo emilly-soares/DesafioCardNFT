@@ -40,7 +40,7 @@ Para executar o projeto localmente, siga estas etapas:
 1. Clone o repositório para a sua máquina:
 
    ```shell
-   git clone https://github.com/seu-nome-de-usuario/DesafioCardNFT.git
+   git clone https://github.com/emilly-soares/DesafioCardNFT.git
 
 2. Navegue até o diretório do projeto:
     ```shell
