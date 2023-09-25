@@ -18,6 +18,16 @@ body {
    overflow-x: hidden;
 }
 
+@media (max-width: 768px) {
+   .custom-card {
+      max-width: 90%;
+   }
+
+   .custom-img {
+      max-width: 100%;
+   }
+}
+
 .custom-card {
    display: flex;
    flex-direction: column;
