@@ -30,6 +30,7 @@ Você pode ver a demonstração deste projeto hospedado no GitHub Pages [aqui](h
 
 - HTML
 - CSS
+- JavaScript
 - GitHub
 - GitHub Pages
 
