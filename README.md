@@ -17,14 +17,21 @@ Você pode ver a demonstração deste projeto hospedado no GitHub Pages [aqui](h
 
 ## Desafio Componente CardList Branch 🃏
 
-![NFT Card List](./images/nft-card-list.png)
-
 - **Projeto Base:** Utilizei o projeto do card NFT como base.
 - **Branch Separada:** Criei uma branch separada para desenvolver o componente de lista de cards.
 - **Componente CardList:** Criei um componente de lista de cards com várias instâncias do card original.
 - **Dados Diferentes:** Adicionei imagens e dados diferentes a cada card na lista.
 - **IA para Imagens:** Utilizei a IA Leonardo.ia para gerar novas imagens.
 - **Efeitos de Animação:** Adicionei efeitos de animação aos cards, dando movimento a eles.
+
+## Desafio Componente Header
+
+- **Projeto Base: Utilizei o projeto cardlist como base.
+- **Branch Separada: Criei uma branch separada para desenvolver o componente de cabeçalho.
+- **Criação de Logo com a IA Leonardo.ia: Utilizei a IA Leonardo.ia para gerar uma nova imagem que serviu como logo para o projeto.
+- **Inspiração em Sites: Pesquisei sites com designs inspiradores para criar um cabeçalho que combine com o projeto.
+- **Design Responsivo: Desenvolvi um cabeçalho responsivo para funcionar tanto em dispositivos móveis quanto em desktops.
+- **Arquivo README: Criei um arquivo README que descreve o projeto, suas tecnologias, inclui fotos e links para acesso, e menciona o autor.
 
 ## Tecnologias Utilizadas 💻
 
