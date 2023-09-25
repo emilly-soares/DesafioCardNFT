@@ -3,11 +3,11 @@
 
 Este é um desafio do Frontend Mentor para criar um componente de card NFT responsivo usando HTML e CSS. O desafio original pode ser encontrado [aqui](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
-## Demonstração
+## Demonstração 📋
 
 Você pode ver a demonstração deste projeto hospedado no GitHub Pages [aqui](https://emilly-soares.github.io/DesafioCardNFT/).
 
-## Funcionalidades
+## Funcionalidades 
 
 - **GitHub:** Utilizei o GitHub para versionamento do código e colaboração.
 - **Commits em Inglês:** Todos os commits foram feitos em inglês seguindo as boas práticas de versionamento.
@@ -15,7 +15,7 @@ Você pode ver a demonstração deste projeto hospedado no GitHub Pages [aqui](h
 - **Design Responsivo:** O card é responsivo, adaptando-se tanto a dispositivos móveis quanto a desktop.
 - **Efeito de Hover:** Adicionei um efeito de hover ao card para uma melhor experiência do usuário.
 
-## Desafio Componente CardList Branch
+## Desafio Componente CardList Branch 🃏
 
 ![NFT Card List](./images/nft-card-list.png)
 
@@ -26,7 +26,7 @@ Você pode ver a demonstração deste projeto hospedado no GitHub Pages [aqui](h
 - **IA para Imagens:** Utilizei a IA Leonardo.ia para gerar novas imagens.
 - **Efeitos de Animação:** Adicionei efeitos de animação aos cards, dando movimento a eles.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 💻
 
 - HTML
 - CSS
@@ -49,8 +49,8 @@ Para executar o projeto localmente, siga estas etapas:
 4. Abra o arquivo index.html em um navegador da web.
 
 
-Contribuições
+Contribuições 🤝
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou correções.
 
-Licença
+Licença 📝
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
