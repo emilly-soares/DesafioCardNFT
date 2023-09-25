@@ -1,6 +1,5 @@
-# Desafio do Componente Card NFT
+# Desafio do Componente Card NFT 🚀🚀
 
-![NFT Card Preview](./images/nft-preview.png)
 
 Este é um desafio do Frontend Mentor para criar um componente de card NFT responsivo usando HTML e CSS. O desafio original pode ser encontrado [aqui](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
@@ -44,9 +43,10 @@ Para executar o projeto localmente, siga estas etapas:
    git clone https://github.com/seu-nome-de-usuario/DesafioCardNFT.git
 
 2. Navegue até o diretório do projeto:
+    ```shell
     cd DesafioCardNFT
 
-3. Abra o arquivo index.html em um navegador da web.
+4. Abra o arquivo index.html em um navegador da web.
 
 
 Contribuições
