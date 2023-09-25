@@ -11,29 +11,7 @@
 
 <body>
 
-   <div class="custom-card">
-
-      <div class="custom-img">
-         <img src="./images/image-equilibrium.jpg" class="custom-card-image">
-         <div class="custom-green-card"></div>
-         <img src="images/icon-view.svg" class="custom-eye">
-      </div>
-
-      <h1 class="custom-title"> Equilibrium #3429</h1>
-      <div class="custom-description">Our Equilibrium collection promotes balance and calm.</div>
-
-      <div class="custom-items">
-         <div class="custom-ethereum"><img src="./images/icon-ethereum.svg">0.041 ETH</div>
-         <div class="custom-time"> <img src="./images/icon-clock.svg">3 days left</div>
-      </div>
-
-      <hr class="custom-hr">
-
-      <div class="custom-author">
-         <img src="./images/image-avatar.png" class="custom-avatar">
-         <span class="custom-author-text">Creation of <span class="custom-name"> Jules Wyvern </span></span>
-      </div>
-
+   <div class="cards-container"> 
    </div>
 
    <div class="custom-attribution">
@@ -41,6 +19,37 @@
       Coded by <a href="#">Emilly</a>.
    </div>
 
+   <script type="module">
+      import { createCardList } from './card-list.js';
+
+      const cardsData = [
+         {
+            image: "./images/image-card1.jpg",
+            title: "Card #1",
+            description: "This is card number 1.",
+            ethereum: "0.041 ETH",
+            timeLeft: "3 days left",
+            author: {
+               avatar: "./images/image-avatar.png",
+               name: "Author 1"
+            }
+         },
+         {
+            image: "./images/image-card1.jpg",
+            title: "Card #2",
+            description: "This is card number 1.",
+            ethereum: "0.041 ETH",
+            timeLeft: "3 days left",
+            author: {
+               avatar: "./images/image-avatar.png",
+               name: "Author 1"
+            }
+         },
+      ];
+
+      createCardList(cardsData);
+   </script>
+    <script src="card-list.js" type="module"></script>
 </body>
 
 </html>
