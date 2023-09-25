@@ -4,40 +4,43 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <!-- displays site properly based on user's device -->
-
    <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-
+   <link rel="stylesheet" href="style.css">
    <title>Frontend Mentor | NFT preview card component</title>
-
-   <!-- Feel free to remove these styles or customise in your own stylesheet ðŸ‘ -->
-   <style>
-      .attribution {
-         font-size: 11px;
-         text-align: center;
-      }
-
-      .attribution a {
-         color: hsl(228, 45%, 44%);
-      }
-   </style>
 </head>
 
 <body>
 
-   Equilibrium #3429
+   <div class="custom-card">
 
-   Our Equilibrium collection promotes balance and calm.
+      <div class="custom-img">
+         <img src="./images/image-equilibrium.jpg" class="custom-card-image">
+         <div class="custom-green-card"></div>
+         <img src="images/icon-view.svg" class="custom-eye">
+      </div>
 
-   0.041 ETH
-   3 days left
+      <h1 class="custom-title"> Equilibrium #3429</h1>
+      <div class="custom-description">Our Equilibrium collection promotes balance and calm.</div>
 
-   Creation of Jules Wyvern
+      <div class="custom-items">
+         <div class="custom-ethereum"><img src="./images/icon-ethereum.svg">0.041 ETH</div>
+         <div class="custom-time"> <img src="./images/icon-clock.svg">3 days left</div>
+      </div>
 
-   <div class="attribution">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-      Coded by <a href="#">Your Name Here</a>.
+      <hr class="custom-hr">
+
+      <div class="custom-author">
+         <img src="./images/image-avatar.png" class="custom-avatar">
+         <span class="custom-author-text">Creation of <span class="custom-name"> Jules Wyvern </span></span>
+      </div>
+
    </div>
+
+   <div class="custom-attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+      Coded by <a href="#">Emilly</a>.
+   </div>
+
 </body>
 
 </html>
