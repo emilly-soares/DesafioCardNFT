@@ -26,6 +26,7 @@ Você pode ver a demonstração deste projeto hospedado no GitHub Pages [aqui](h
 - **IA para Imagens:** Utilizei a IA Leonardo.ia para gerar novas imagens.
 - **Efeitos de Animação:** Adicionei efeitos de animação aos cards, dando movimento a eles.
 
+![cards-nft](https://github.com/emilly-soares/DesafioCardNFT/assets/54116441/fc08ca56-0f35-4198-920d-ec8abf04e12b)
 
 
 ## Desafio Componente Header
