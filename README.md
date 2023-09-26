@@ -38,6 +38,9 @@ Você pode ver a demonstração deste projeto hospedado no GitHub Pages [aqui](h
 - **Design Responsivo:** Desenvolvi um cabeçalho responsivo para funcionar tanto em dispositivos móveis quanto em desktops.
 - **Arquivo README:** Criei um arquivo README que descreve o projeto, suas tecnologias, inclui fotos e links para acesso, e menciona o autor.
 
+![cards-header](https://github.com/emilly-soares/DesafioCardNFT/assets/54116441/cadb2b9f-fcc4-40a6-9698-18c09bf34ce2)
+
+
 ## Tecnologias Utilizadas 💻
 
 - HTML
