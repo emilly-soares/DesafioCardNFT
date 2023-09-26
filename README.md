@@ -14,6 +14,10 @@ Você pode ver a demonstração deste projeto hospedado no GitHub Pages [aqui](h
 - **Branches:** Utilizei branches para desenvolver diferentes funcionalidades do projeto.
 - **Design Responsivo:** O card é responsivo, adaptando-se tanto a dispositivos móveis quanto a desktop.
 - **Efeito de Hover:** Adicionei um efeito de hover ao card para uma melhor experiência do usuário.
+  
+![card-nft](https://github.com/emilly-soares/DesafioCardNFT/assets/54116441/9a544593-62b5-40bf-8c63-fc5c26babdc6)
+
+
 
 ## Desafio Componente CardList Branch 🃏
 
@@ -23,6 +27,8 @@ Você pode ver a demonstração deste projeto hospedado no GitHub Pages [aqui](h
 - **Dados Diferentes:** Adicionei imagens e dados diferentes a cada card na lista.
 - **IA para Imagens:** Utilizei a IA Leonardo.ia para gerar novas imagens.
 - **Efeitos de Animação:** Adicionei efeitos de animação aos cards, dando movimento a eles.
+
+
 
 ## Desafio Componente Header
 
